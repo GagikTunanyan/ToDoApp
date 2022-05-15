@@ -1,6 +1,7 @@
 ## Getting Started
+
 npm install --legacy-peer-deps 
-# or
+or
 yarn install
 
 First, run the development server:
